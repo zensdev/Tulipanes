@@ -20,6 +20,7 @@ html, body {
   height: 100vh;
   align-items: flex-end;
   background: #e0f7fa;
+  position: sticky;
 }
 
 .tulip {
@@ -73,7 +74,7 @@ html, body {
   width: 100%;
   height: 50px;
   background: #66bb6a;
-  position: fixed;
+  position: absolute;
   bottom: 0;
 }
 
